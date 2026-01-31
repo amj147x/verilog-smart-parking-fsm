@@ -46,5 +46,8 @@ State transitions occur synchronously with the clock.
 - Simulation testbench included
 
 ---
+EDA playground link for Simulation 
+---
+https://www.edaplayground.com/x/NztL
 
 
